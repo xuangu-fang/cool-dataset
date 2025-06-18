@@ -14,3 +14,5 @@ cool datasets
 - LOB-Bench: https://lobbench.github.io/
 
 - Gravity-Bench-v1: https://arxiv.org/pdf/2501.18411
+
+- AI4CFD 最新综述：https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/2408.12171
