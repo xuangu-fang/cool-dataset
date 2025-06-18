@@ -7,4 +7,6 @@ cool datasets
 
 - 时空-张量数据：https://spatiotemporal-data.github.io/posts/ts_conv/
 
-- TerraClimate：全球高分辨率格网温度、降水、风速和其他水平衡变量：https://climatedataguide.ucar.edu/climate-data/terraclimate-global-high-resolution-gridded-temperature-precipitation-and-other-water 
+- TerraClimate：全球高分辨率格网温度、降水、风速和其他水平衡变量：https://climatedataguide.ucar.edu/climate-data/terraclimate-global-high-resolution-gridded-temperature-precipitation-and-other-water
+
+- BatteryLife: https://github.com/Ruifeng-Tan/BatteryLife
