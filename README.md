@@ -18,3 +18,6 @@ cool datasets
 - AI4CFD 最新综述：https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/2408.12171
 
 - 多物理PDE bench: https://github.com/xie-lab-ml/multiphysics-bench?tab=readme-ov-file
+
+- 斯坦福流体力学benchmark - BlastNet详细解读 - 独自走下长坂坡的文章 - 知乎
+https://zhuanlan.zhihu.com/p/1936202285018517569
